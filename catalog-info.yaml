@@ -2,7 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: demo-flask-app
-  description: A flask application template to fetch skywise data.
+  description: A flask application to test in Backstage catalog.
   # Example for optional annotations
   annotations:
     backstage.io/code-coverage: enabled
